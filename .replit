@@ -1,0 +1,2 @@
+run = "pip3 install -r requirements_but_name_should_not_be_standard.txt && whoogle-search --host=0.0.0.0"
+onBoot = "pip3 install -r requirements_but_name_should_not_be_standard.txt && whoogle-search --host=0.0.0.0"

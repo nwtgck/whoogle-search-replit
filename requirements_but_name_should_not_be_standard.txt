@@ -1,0 +1,2 @@
+# The file name should not be "requirements.txt" because of Replit boot
+whoogle-search==0.6.0
