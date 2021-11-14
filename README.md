@@ -2,7 +2,7 @@
 Whoogle Search which is easy to update on Replit
 
 ## Instance
-<https://replit.com/@nwtgck/whoogle>
+<https://whoogle.nwtgck.repl.co>
 
 ## Replit
 <https://replit.com/@nwtgck/whoogle>
